@@ -12,7 +12,7 @@ use Ups\Entity\AddressNew;
 /**
  * Address Validation API Wrapper.
  */
-class AddressValidation extends Ups
+class AddressValidationNew extends Ups
 {
     const ENDPOINT = '/AV';
 
