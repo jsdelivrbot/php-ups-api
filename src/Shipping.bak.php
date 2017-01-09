@@ -16,7 +16,8 @@ use Ups\Entity\ShipmentRequestReceiptSpecification;
  * Package Shipping API Wrapper
  * Based on UPS Developer Guide, dated: 31 Dec 2012.
  */
-class Shipping extends Ups
+//TODO just bak it
+class ShippingBak extends Ups
 {
     const REQ_VALIDATE = 'validate';
     const REQ_NONVALIDATE = 'nonvalidate';
